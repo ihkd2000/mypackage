@@ -1,0 +1,15 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "getting started with project packaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mypackage"
+  },
+  "author": "Ayman",
+  "license": "ISC"
+}
